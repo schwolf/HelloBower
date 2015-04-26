@@ -1,0 +1,23 @@
+{
+  "name": "HelloBower",
+  "version": "1.0.0",
+  "description": "\"Hello, World\" powered by bower package manager.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/schwolf/HelloBower.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schwolf/HelloBower/issues"
+  },
+  "homepage": "https://github.com/schwolf/HelloBower",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2"
+  }
+}
