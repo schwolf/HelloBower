@@ -1,0 +1,20 @@
+{
+  "name": "HelloBower",
+  "version": "0.0.0",
+  "homepage": "https://github.com/schwolf/HelloBower",
+  "authors": [
+    "Wolfgang Schmidt <schmidt@epsit.de>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
